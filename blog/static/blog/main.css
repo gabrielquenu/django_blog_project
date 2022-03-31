@@ -38,6 +38,7 @@ ul {
 
 .article-title {
   color: #444444;
+  text-decoration: none;
 }
 
 a.article-title:hover {
@@ -81,4 +82,8 @@ a.article-title:hover {
 
 .account-heading {
   font-size: 2.5rem;
+}
+
+.form-group {
+  margin-top: 2rem;
 }
